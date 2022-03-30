@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+}
+
+.button{
+    background-color: rgb(138, 50, 221);
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    margin: 3px;
+    font-family: 'Montserrat';
+    font-weight:500;
+}
+.display-box{
+    background-color: rgb(194, 187, 187);
+    width: 300px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 8px;
+    font-weight: 500;
+    font-size: 25px;
+}
+.heading{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+.container{
+    height: 400px;
+    width: 455px;
+    margin-top: 198px;
+    border-radius: 30px;
+    background-color: rgb(27, 25, 25);
+}
